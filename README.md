@@ -1,5 +1,10 @@
 
-### Olá! Eu sou o Juan Santos 👋 um aspirante a desenvolvedor Web Front-End
+### 🇧🇷 Olá! Eu sou o Juan Santos 👋 
+### Sou um aspirante a desenvolvedor Front-end, apaixonado por tecnologia e dedicado a transformar conceitos criativos em experiências digitais irresistíveis e intuitivas. Estou apenas começando minha jornada no desenvolvimento web, mas já estou empolgado para enfrentar novos desafios e ampliar constantemente minhas habilidades.
+
+### 🌐 Vamos criar algo incrível juntos!
+### Se você está interessado em discutir ideias, colaborar em projetos ou simplesmente trocar experiências, adoraria ouvir de você!
+
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-santos-45a9b31bb)
 [![Social](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Juan-s-moreira)
 [![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_juanito.skt)
@@ -20,3 +25,5 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-s-moreira&layout=compact)
+
+###
