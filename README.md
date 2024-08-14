@@ -19,4 +19,4 @@
 </div> <br/>
 
 
-!![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-s-moreira&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-s-moreira&layout=compact)
