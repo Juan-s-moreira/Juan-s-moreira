@@ -5,7 +5,7 @@
 ### 🌐 Vamos criar algo incrível juntos!
 ### Se você está interessado em discutir ideias, colaborar em projetos ou simplesmente trocar experiências, adoraria ouvir de você!
 
-[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-santos-45a9b31bb)
+[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-s-moreira)
 [![Social](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Juan-s-moreira)
 [![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_juanito.skt)
 [![Social](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5511966259715)
